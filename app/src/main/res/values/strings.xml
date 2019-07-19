@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+
+    <string name="base_url">https://api.themoviedb.org/3/</string>
+    <string name="base_url_image">https://image.tmdb.org/t/p/w500/</string>
+    <string name="api_key_movie">da2334aed44334eb29a85cfc3711ee6d</string>
+</resources>
